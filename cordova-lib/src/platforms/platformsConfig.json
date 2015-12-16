@@ -83,5 +83,11 @@
         "handler_file": "../plugman/platforms/browser",
         "url": "https://git-wip-us.apache.org/repos/asf?p=cordova-browser.git",
         "version": "~4.0.0"
+    },
+    "tizen": {
+        "parser_file": "../cordova/metadata/tizen_parser",
+        "handler_file": "../plugman/platforms/tizen",
+        "url": "https://github.com/yupkey/cordova-tizen-test",
+        "version": "~2.9.0"
     }
 }
